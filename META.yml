@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Encode-Bootstring
-version:            0.02
+version:            0.03
 abstract:           Encode and decode utf8 into a set of basic code points
 author:
     - Soren Dossing <netcom@sauber.net>
